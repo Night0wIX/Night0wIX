@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Night0wIX
 
-<!--
-**Night0wIX/Night0wIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Web & Mobile Developer with 2 years of experience in building products using modern JavaScript technologies.
 
-Here are some ideas to get you started:
+💡 I specialize in **Frontend**, also working with **Backend**, some **UI/UX design**, and basic **QA**. Currently, I'm working as a **React Native developer**, building production-ready mobile apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🔭 Currently working on cross-platform mobile apps & side tools/plugins
+- 🌱 Exploring full-stack technologies and software architecture
+- 🛠 Tech-savvy and detail-oriented, always open to new challenges
+- 💬 I enjoy learning, mentoring, and improving codebases
+
+---
+
+## 🧰 Tech Stack
+<div style="display:flex; align-items: center;">
+  <img src="./images/skills/stack4.png" alt="HTML" />
+</div>
+
+---
+
+## 📦 Projects & Experiments
+
+- 🧩 [vite-plugin-smart-image](https://github.com/Night0wIX/vite-plugin-smart-image) — Vite plugin to optimize and import responsive images.
+
+_(More coming soon...)_
+
+---
+
+## 📬 Let's Connect
+
+- 🐙 [GitHub](https://github.com/Night0wIX)  
