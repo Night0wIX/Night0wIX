@@ -24,7 +24,7 @@ I'm a passionate Web & Mobile Developer with 2 years of experience in building p
 
 ## 📦 Projects & Experiments
 
-- 🧩 [vite-plugin-smart-image](https://github.com/Night0wIX/vite-plugin-smart-image) — Vite plugin to optimize and import responsive images.
+- 🧩 [plugin-smart-image](https://github.com/Night0wIX/plugin-smart-image) — plugin to optimize and import responsive images.
 
 _(More coming soon...)_
 
